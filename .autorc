@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "amaye15",
+  "repo": "container-hdllbgw",
+  "name": "amaye15",
+  "email": "andrewmayes14@hotmail.com",
+}
